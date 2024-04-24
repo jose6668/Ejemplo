@@ -1,6 +1,10 @@
 # Ejemplo
 
-## Análisis: Definición de requerimientos para el Control y seguimiento Distribuciones Avícola.
+# Control y seguimiento Distribuciones Avícola. 
+
+#### Necesidad:  Se tiene una granja de cultivo de pollos y se requiere desarrollar un sistema que permita controlar el tiempo de cada galpón. Para ello, se debe registrar para cada galpón el `código`, el `número de ubicación` y la `capacidad de pollos` que puede albergar. Además, se debe tener en cuenta el estado de ocupación del galpón, el cual puede estar `marcado como "usado" o "vacío".` Cuando lleguen nuevos pollos, se deberá ingresar la `cantidad`, la `fecha` y actualizar el `estado` del galpón según corresponda.
+
+#### Análisis: Definición de requerimientos.
 
 ### Requerimientos Funcionales (RF)
 
