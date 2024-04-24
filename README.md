@@ -1,7 +1,5 @@
 # Ejemplo
 
-### hffggghh
-
 ## Análisis: Definición de requerimientos para el Control y seguimiento Distribuciones Avícola.
 
 ### Requerimientos Funcionales (RF)
