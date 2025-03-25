@@ -147,3 +147,9 @@ En este sentido, se procede a normarlizar de la siguiente manera.
 ```
 # Ver planificación 
 [Ver Aquí](https://trello.com/b/gOEix3Zs/control-y-seguimiento-distribuciones-avicola)
+
+
+asdsadasd
+asdsad
+ 
+ cambios realizados por el desarrollador d 
